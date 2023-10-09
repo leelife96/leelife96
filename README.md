@@ -3,13 +3,13 @@
 
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=github_dark_dimmed&show_icons=true)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96)
+	
+  </div>
+
 <!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelife96&layout=Demo&theme=cobalt)
