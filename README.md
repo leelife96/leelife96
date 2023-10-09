@@ -7,7 +7,7 @@
 	
   </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=panda&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=github_dark_dimmed&show_icons=true)
 <!--
 **leelife96/leelife96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
