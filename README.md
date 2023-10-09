@@ -11,6 +11,10 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96)
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelife96&layout=Demo&theme=tokyonight)
+
+
 **leelife96/leelife96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
