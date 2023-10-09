@@ -2,13 +2,12 @@
 
   <div align=center><h1>👋 Hi, I’m leelife96 </h1></div>
   <div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=github_dark_dimmed&show_icons=true)
+
+
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=github_dark_dimmed&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelife96&layout=Demo&theme=cobalt)
 
-  <hr>
-
-
-  
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96)
 
