@@ -1,7 +1,6 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=120&animation=fadeIn&section=footer&text=기웅이의%20GitHub🐬&fontAlign=70&fontColor=3C3B3F&fontSize=40)
-  <div align=center><h1>👋 (미완성) </h1></div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=120&animation=fadeIn&section=footer&text=기웅이의%20GitHub🐬&fontAlign=70&fontColor=3C3B3F&fontSize=40)
+ 
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=vue&show_icons=true)  
 
