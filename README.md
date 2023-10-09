@@ -2,11 +2,13 @@
 
   <div align=center><h1>👋 Hi, I’m leelife96 </h1></div>
 
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96)
+
       
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=github_dark_dimmed&show_icons=true)
    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelife96&layout=Demo&theme=cobalt)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96)
 
 
 **leelife96/leelife96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
