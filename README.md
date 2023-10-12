@@ -6,7 +6,7 @@
 
   
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelife96&layout=compact&theme=github)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96)  
 
 <hr>
  <br>
