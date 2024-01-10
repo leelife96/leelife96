@@ -23,10 +23,19 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=style=flat-square&logo=bootstrap&logoColor=white"></a> &nbsp
-</p>
-<hr>
- <br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> </a> &nbsp
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> </a> &nbsp
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> </a> &nbsp
 
+   <br>
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> </a> &nbsp
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> </a> &nbsp
+   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> </a> &nbsp
+ </br>
+</p>
+
+
+<hr>
 
   ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)
   ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
