@@ -28,9 +28,16 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> </a> &nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> </a> &nbsp
    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> </a> &nbsp
-   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> &nbsp
- <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> &nbsp
+   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> &nbsp
+ <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/auth0-EB5424?style=flat-square&logo=auth0&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=#0078D6"> &nbsp
 
 
 </p>
