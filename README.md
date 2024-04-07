@@ -10,11 +10,14 @@
 
 <hr>
  <br>
+<h3 align="center"><b>🛠 Platforms & Languages 🛠</b></h3>
 
-<h3 align="left"><b>🛠 기술 스택 🛠</b></h3>
+<h3 align="center"><b>🛠 Tools 🛠</b></h3>
 </br>
 <p align="left">
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Android Studio-green?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
