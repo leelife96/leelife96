@@ -1,7 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=120&animation=fadeIn&section=footer&text=기웅이의%20GitHub🐬&fontAlign=70&fontColor=3C3B3F&fontSize=40)
+
  
   
+
 <div align="center">
   <p align="center">
     
@@ -18,11 +20,12 @@
     <br>
   </div>
 
-
+<br>
   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=vue&show_icons=true)    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leelife96)](https://solved.ac/leelife96) 
+![1cafded1c7283cb949c9ee08297d2c00](https://github.com/leelife96/leelife96/assets/132639168/66b61cfc-2e69-46fc-a7cf-2585cca51ac5)
 
-
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=vue&show_icons=true)   
+ 
 
 <h3 align="center"><b>🛠 Platforms & Languages 🛠</b></h3>
 </br>
@@ -40,7 +43,7 @@
    <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> &nbsp
  <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=#0078D6"> &nbsp
-  <img src="https://img.shields.io/badge/auth0-EB5424?style=flat-square&logo=auth0&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/Oauth2.0-EB5424?style=flat-square&logo=auth0&logoColor=#0078D6"> &nbsp
   <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=#0078D6"> &nbsp
    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=#0078D6"> &nbsp
      <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> </a> &nbsp
@@ -59,10 +62,11 @@
   <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=#0078D6"> &nbsp
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=#0078D6"> &nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=#0078D6"> &nbsp
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=#0078D6"> &nbsp
 </p>
 
 
-<hr>
+<br>
 
   ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)
   ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
