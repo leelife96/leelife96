@@ -42,6 +42,7 @@
  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> </a> &nbsp
    <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> &nbsp
    <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> &nbsp
+     <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=#4FC08D"> </a> &nbsp
    <img src="https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=#61DAFB"> </a> &nbsp
   <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=#0078D6"> &nbsp
   <img src="https://img.shields.io/badge/Oauth2.0-EB5424?style=flat-square&logo=auth0&logoColor=#0078D6"> &nbsp
@@ -51,8 +52,8 @@
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=style=flat-square&logo=bootstrap&logoColor=white"></a> &nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> </a> &nbsp
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=black"> </a> &nbsp
+  <img src="https://img.shields.io/badge/ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=#000000"> </a> &nbsp
 </p>
-
 
 <h3 align="center"><b>🛠 Tools 🛠</b></h3>
 </br>
