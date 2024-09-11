@@ -53,6 +53,11 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> </a> &nbsp
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=black"> </a> &nbsp
   <img src="https://img.shields.io/badge/ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=#000000"> </a> &nbsp
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=#009639"> </a> &nbsp
+  <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=#232F3E"> </a> &nbsp
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=nginx&logoColor=#009639"> </a> &nbsp
+  <img src="https://img.shields.io/badge/Amazon RDS-000000?style=flat-square&logo=amazonrds&logoColor=#000000"> </a> &nbsp
+  <img src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=amazonec2&logoColor=#000000"> </a> &nbsp
 </p>
 
 <h3 align="center"><b>🛠 Tools 🛠</b></h3>
