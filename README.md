@@ -22,7 +22,7 @@
 
 <br>
   
-![1cafded1c7283cb949c9ee08297d2c00](https://github.com/leelife96/leelife96/assets/132639168/66b61cfc-2e69-46fc-a7cf-2585cca51ac5)
+
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelife96&theme=vue&show_icons=true)   
  
